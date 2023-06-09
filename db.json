@@ -1,0 +1,63 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "'Juan'",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "gianmarco sadasd",
+      "empresa": "Nodejs",
+      "email": "gianmarcop58@gmail.com",
+      "telefono": "991128721",
+      "notas": "adasdsa",
+      "id": 6
+    },
+    {
+      "nombre": "gianmarco sadasd",
+      "empresa": "Nodejs",
+      "email": "gianmarcop58@gmail.com",
+      "telefono": "991128721",
+      "notas": "asd",
+      "id": 7
+    },
+    {
+      "nombre": "gianmarco sadasd",
+      "empresa": "Nodejs",
+      "email": "gianmarcop58@gmail.com",
+      "telefono": "991128721",
+      "notas": "asdas",
+      "id": 8
+    }
+  ]
+}
